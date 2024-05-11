@@ -17,14 +17,21 @@ header {
   padding-top: 5px;
 }
 
-.header-logo {
+.header-text {
   font-family: 'Alien League II';
   font-size: 3.5rem;
   color: #FFFFE7;
-  margin: 0;
+  margin: .15rem;
+  padding: .05rem;
   text-align: center;
+  border-radius: 1px;
+  transition: all .4s ease;
 }
-
+.header-text:hover {
+  border: .5px rgba(255, 255, 255, 0.5) solid;
+  background: rgba(255, 255, 255, 0.075);
+  scale: 1.05;
+}
 a {
   display: flex;
   align-items: center;
