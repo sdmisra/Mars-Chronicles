@@ -1,7 +1,7 @@
 .gallery-grid {
   flex-shrink: 1;
   line-height: 0;
-  column-count: 6;
+  column-count: 5;
   column-gap: 12px;
   max-width: 100%;
 }
