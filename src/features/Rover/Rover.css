@@ -10,14 +10,14 @@
 .rover-icon-img {
   width: 190px;
   height: 190px;
-  border: .2rem solid #e7e9ffe4;
+  border: .2rem solid #FFFFE7;
   border-radius: 100px;
   box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
   transition: all 1.25s ease;
 }
 
 .rover-icon-img:hover {
-  border: .1rem solid #e7e9ff;
+  border: .1rem solid #FFFFE7;
   scale: 1.1;
 }
 
